@@ -1,0 +1,10 @@
+---
+title: "Projects"
+toc: false
+page-layout: full
+---
+
+Research summaries, papers, and presentation slides will be added as they become available.
+
+- **Baltimore’s Group Violence Reduction Strategy** — An evaluation of the program’s effect on violent crime in Baltimore.
+- **Forecasting Texas Energy Consumption** — An analysis of how data center expansion and growing AI use could affect future energy demand in Texas.

@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Rachel Roberts"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Projects.qmd
+        text: Projects
+      - href: Writing.qmd
+        text: Writing
+
+format:
+  html:
+    theme:
+      - litera
+      - brand
+    css: styles.css
+    toc: false 
+    anchor-sections: false
+
+
+

@@ -1,0 +1,67 @@
+---
+pagetitle: "Rachel Roberts"
+toc: false
+page-layout: full
+---
+
+::: {.home-intro}
+
+::: {.home-profile}
+# Rachel Roberts
+
+![](images/RachelRobertsHeadshot.jpg){width=220px fig-alt="Professional headshot of Rachel Roberts"}
+:::
+
+::: {.home-bio}
+I’m a graduate research assistant at the Center for Free Enterprise at The
+University of Texas at El Paso, where I conduct applied economic research
+and contribute to *Economic Insights*, the center’s monthly publication.
+I’m also pursuing an M.S. in Economics at UTEP and expect to graduate in
+Spring 2027.
+
+My research at the center includes an evaluation of Baltimore’s Group
+Violence Reduction Strategy, which examined the program’s effect on violent
+crime. I’m currently developing a forecast of Texas energy consumption that
+examines how the expansion of data centers and the growing use of AI could
+affect future demand.
+:::
+
+::: 
+
+::: {.featured-research}
+## Featured Research
+
+### Evaluating Baltimore’s Group Violence Reduction Strategy
+
+I evaluated the effect of Baltimore’s Group Violence Reduction Strategy on violent crime in the city.
+
+### Forecasting Texas Energy Consumption
+
+I’m developing a forecast of Texas energy consumption that examines how the growth of data centers and AI could affect future demand.
+
+::: {style="text-align: center;"}
+[View projects →](Projects.qmd)
+:::
+
+:::
+
+::: {.recent-writing}
+## Recent Writing
+
+[Housing Affordability Requires More Homes, Not Just Different Owners](https://c4fe.substack.com/p/housing-affordability-requires-more)
+
+*Economic Insights* · Oct 2026
+
+[The Changing Economics of Nuclear Energy in the Age of AI](https://c4fe.substack.com/p/the-changing-economics-of-nuclear)  
+*Economic Insights* · Aug 2026
+
+::: {style="text-align: center;"}
+[View all writing →](Writing.qmd)
+:::
+:::
+
+::: {.contact-banner}
+## Contact
+
+[Email](mailto:rachelmroberts23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rachel-roberts-86b67a217)
+:::

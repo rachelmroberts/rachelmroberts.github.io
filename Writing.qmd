@@ -1,0 +1,71 @@
+---
+title: "Writing"
+toc: false
+page-layout: full
+---
+
+Articles I have written for *Economic Insights*, published by UTEP's Center for Free Enterprise.
+
+```{=html}
+<div class="articles-list">
+  <a class="article-row" href="https://c4fe.substack.com/p/housing-affordability-requires-more">
+    <time class="article-date" datetime="2026-10-29">Oct 2026</time>
+    <span>
+      <span class="article-title">Housing Affordability Requires More Homes, Not Just Different Owners</span>
+      <span class="article-publication">Economic Insights</span>
+    </span>
+    <span aria-hidden="true">↗</span>
+  </a>
+
+  <a class="article-row" href="https://c4fe.substack.com/p/the-changing-economics-of-nuclear">
+    <time class="article-date" datetime="2026-08-27">Aug 2026</time>
+    <span>
+      <span class="article-title">The Changing Economics of Nuclear Energy in the Age of AI</span>
+      <span class="article-publication">Economic Insights</span>
+    </span>
+    <span aria-hidden="true">↗</span>
+  </a>
+
+  <a class="article-row" href="https://c4fe.substack.com/p/the-rebundling-of-entertainment-how">
+    <time class="article-date" datetime="2026-06-25">Jun 2026</time>
+    <span>
+      <span class="article-title">The Rebundling of Entertainment: How Streaming Recreated Cable TV</span>
+      <span class="article-publication">Economic Insights</span>
+    </span>
+    <span aria-hidden="true">↗</span>
+  </a>
+
+  <a class="article-row" href="https://c4fe.substack.com/p/raise-the-roof-remove-the-ceiling">
+    <time class="article-date" datetime="2026-04-30">Apr 2026</time>
+    <span>
+      <span class="article-title">Raise the Roof, Remove the Ceiling: The Economics of Concert Ticket Prices</span>
+      <span class="article-publication">Economic Insights</span>
+    </span>
+    <span aria-hidden="true">↗</span>
+  </a>
+
+  <a class="article-row" href="https://c4fe.substack.com/p/evaluating-50-year-mortgages-affordability">
+    <time class="article-date" datetime="2026-01-29">Jan 2026</time>
+    <span>
+      <span class="article-title">Evaluating 50-Year Mortgages: Affordability Gains and Long-Term Costs</span>
+      <span class="article-publication">Economic Insights</span>
+    </span>
+    <span aria-hidden="true">↗</span>
+  </a>
+
+  <a class="article-row" href="https://c4fe.substack.com/p/engagement-economics-how-opportunity">
+    <time class="article-date" datetime="2025-10-30">Oct 2025</time>
+    <span>
+      <span class="article-title">Engagement Economics: How Opportunity Costs Affect the Demand for Diamonds</span>
+      <span class="article-publication">Economic Insights</span>
+    </span>
+    <span aria-hidden="true">↗</span>
+  </a>
+</div>
+```
+
+::: {.contact-banner}
+## Contact
+
+[Email](mailto:rachelmroberts23@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rachel-roberts-86b67a217)
+:::
