@@ -1,0 +1,204 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Playfair+Display:wght@600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap");
+
+:root {
+  --page-color: #faf8f3;
+  --nav-color: #233d35;
+  --text-color: #25312d;
+  --link-color: #326653;
+}
+
+body {
+  background-color: var(--page-color);
+  color: var(--text-color);
+  font-family: "Segoe UI", sans-serif;
+  line-height: 1.7;
+}
+
+.navbar {
+  background-color: var(--nav-color);
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: #d8e8df;
+}
+
+main h1 {
+  color: var(--nav-color);
+  font-family: Georgia, serif;;
+  font-size: clamp(2rem, 5vw, 3.5rem);
+}
+
+main a {
+  color: var(--link-color);
+}
+
+main img[src$="RachelRobertsHeadshot.jpg"] {
+  border-radius: 12px;
+}
+.navbar .navbar-brand,
+main h1 {
+  font-family: "Playfair Display", Georgia, serif;
+  font-weight: 600;
+}
+
+.navbar .nav-link {
+  font-family: "Quicksand", "Segoe UI", sans-serif;
+  font-weight: 600;
+}
+
+.contact-banner {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  border-radius: 12px;
+  background-color: var(--nav-color);
+  color: white;
+  text-align: center;
+}
+
+.contact-banner h2 {
+  margin: 0 0 0.5rem;
+  padding: 0;
+  border-bottom: 0;
+  color: inherit;
+  font-family: "Playfair Display", Georgia, serif;
+}
+
+.contact-banner p {
+  margin: 0;
+}
+
+.contact-banner a {
+  color: inherit;
+  text-decoration: underline;
+}
+
+.articles-list {
+  margin-top: 2rem;
+  border-top: 1px solid #d8ddd7;
+}
+
+.articles-list .article-row {
+  display: grid;
+  grid-template-columns: 7rem minmax(0, 1fr) auto;
+  gap: 1rem;
+  align-items: start;
+  padding: 1.4rem 0.5rem;
+  border-bottom: 1px solid #d8ddd7;
+  color: var(--nav-color);
+  text-decoration: none;
+  font-family: "DM Sans", "Segoe UI", sans-serif;
+}
+
+.article-date {
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.article-title {
+  display: block;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.35rem;
+  line-height: 1.35;
+}
+
+.article-publication {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.articles-list .article-row:hover,
+.articles-list .article-row:focus-visible {
+  background-color: #edf1ec;
+}
+
+.article-row:hover .article-title,
+.article-row:focus-visible .article-title {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .articles-list .article-row {
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 0.35rem 1rem;
+  }
+
+  .article-date {
+    grid-column: 1 / -1;
+    font-size: 0.85rem;
+  }
+
+  .article-date:empty {
+    display: none;
+  }
+}
+
+.home-intro {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.home-profile {
+  text-align: center;
+}
+
+.home-profile h1 {
+  margin: 0 0 1rem;
+  font-size: clamp(1.9rem, 4vw, 2.6rem);
+}
+
+.home-profile p,
+.home-bio p:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 650px) {
+  .home-intro {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+}
+
+body:has(.home-intro) main#quarto-document-content {
+  width: 100%;
+  max-width: 1050px;
+  margin-inline: auto;
+  padding-inline: 1.25rem;
+}
+
+.featured-research {
+  margin-top: 3rem;
+}
+
+.featured-research h2 {
+  color: var(--nav-color);
+  font-family: "Playfair Display", Georgia, serif;
+}
+
+.recent-writing {
+  margin-top: 3rem;
+}
+
+.recent-writing h2 {
+  color: var(--nav-color);
+  font-family: "Playfair Display", Georgia, serif;
+}
+
+@media (min-width: 992px) {
+  .navbar .navbar-nav {
+    flex: 1;
+    justify-content: space-evenly;
+  }
+}
