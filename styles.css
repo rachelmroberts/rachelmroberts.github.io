@@ -202,3 +202,21 @@ body:has(.home-intro) main#quarto-document-content {
     justify-content: space-evenly;
   }
 }
+
+
+.home-profile .resume-button {
+  display: inline-block;
+  margin-top: 0.85rem;
+  padding: 0.5rem 0.9rem;
+  border-radius: 8px;
+  background-color: var(--nav-color);
+  color: white;
+  font-family: "Quicksand", "Segoe UI", sans-serif;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.home-profile .resume-button:hover,
+.home-profile .resume-button:focus-visible {
+  text-decoration: underline;
+}
