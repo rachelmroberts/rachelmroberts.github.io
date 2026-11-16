@@ -24,6 +24,9 @@ Violence Reduction Strategy, which examined the program’s effect on violent
 crime. I’m currently developing a forecast of Texas energy consumption that
 examines how the expansion of data centers and the growing use of AI could
 affect future demand.
+
+[Download résumé (PDF)](Rachel%20Roberts%20Resume.pdf){.btn .btn-outline-primary}
+
 :::
 
 ::: 
